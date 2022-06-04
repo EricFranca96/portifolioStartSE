@@ -254,3 +254,6 @@ p {
         flex-direction: row-reverse;
     }
 }
+body {
+    background-color: hsl(0, 100%, 50%);
+}
